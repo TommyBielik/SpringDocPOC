@@ -1,0 +1,11 @@
+= SpringDocPOC REST Docs
+
+This is an example output for a service running at http://localhost:8080:
+
+== GET API Example
+.request
+include::{snippets}/testGetUser/http-request.adoc[]
+
+== POST API Example
+.response
+include::{snippets}/testRegisterUser/http-response.adoc[]
